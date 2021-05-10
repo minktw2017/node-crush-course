@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/minktw2017/node-crush-course#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "lodash": "^4.17.21"
   }
 }
